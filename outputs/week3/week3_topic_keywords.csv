@@ -1,0 +1,61 @@
+word,count,doc_freq,tfidf_score,dominant_topic
+quality,1159,357,1349.623427729326,Product Quality & Durability
+working,293,186,531.4717322741576,Product Quality & Durability
+long,135,91,340.6342594932412,Product Quality & Durability
+build,138,97,339.48522128043066,Product Quality & Durability
+sturdy,102,85,264.2471178138154,Product Quality & Durability
+material,62,52,190.6322308300012,Product Quality & Durability
+durable,50,36,171.70437006958937,Product Quality & Durability
+stopped,42,36,144.23167085845506,Product Quality & Durability
+strong,37,31,132.43296821574253,Product Quality & Durability
+damaged,33,30,119.16359761517857,Product Quality & Durability
+cable,1133,247,1688.6892776267841,Charging & Power
+charging,860,257,1247.7976346790326,Charging & Power
+battery,437,125,947.2434549877618,Charging & Power
+fast,451,229,706.1792989406881,Charging & Power
+power,290,105,678.7299121683968,Charging & Power
+usb,292,110,669.9522048119078,Charging & Power
+charge,288,132,608.6989263988181,Charging & Power
+charger,243,129,519.1336858461824,Charging & Power
+type,145,93,356.78588130129765,Charging & Power
+port,105,63,298.72541829342106,Charging & Power
+phone,664,112,1361.3756309948496,Compatibility & Usability
+easy,483,206,697.90289496937,Compatibility & Usability
+laptop,203,72,504.9001550610759,Compatibility & Usability
+device,198,72,492.46419065070455,Compatibility & Usability
+working,264,150,464.7383364116413,Compatibility & Usability
+works,245,156,421.74459687921546,Compatibility & Usability
+mobile,165,76,401.5847387258805,Compatibility & Usability
+connect,87,46,254.69291077159602,Compatibility & Usability
+android,74,31,245.0818151112968,Compatibility & Usability
+fit,78,56,213.29888232027227,Compatibility & Usability
+price,366,190,495.3914815992685,Price & Value
+money,281,187,384.79018907395954,Price & Value
+value,224,157,345.6783754522628,Price & Value
+worth,139,103,272.63615223449284,Price & Value
+cheap,52,33,160.13096016735145,Price & Value
+cost,57,46,157.0723044813985,Price & Value
+budget,42,35,126.93589136927527,Price & Value
+affordable,33,24,111.7685659671173,Price & Value
+deal,27,25,90.38804926341192,Price & Value
+expensive,24,23,82.26595766275324,Price & Value
+box,27,12,53.74076500875268,Delivery & Packaging
+replacement,24,11,49.690593880833916,Delivery & Packaging
+delivery,24,13,45.99097756497972,Delivery & Packaging
+received,19,15,33.872427445743014,Delivery & Packaging
+return,16,11,33.12706258722261,Delivery & Packaging
+packaging,13,8,30.655605293991528,Delivery & Packaging
+package,11,7,27.234971717905356,Delivery & Packaging
+returned,6,3,19.014322202217137,Delivery & Packaging
+delivered,6,4,17.67546089433188,Delivery & Packaging
+refund,4,4,11.783640596221254,Delivery & Packaging
+good,22,9,29.402389205666687,General Experience
+nice,11,8,15.860160275069433,General Experience
+not,9,7,14.036542091418804,General Experience
+like,6,5,11.083787162323222,General Experience
+jpg,5,4,10.148097085905793,General Experience
+com,5,4,10.148097085905793,General Experience
+amazing,4,3,9.011051873981472,General Experience
+liked,4,3,9.011051873981472,General Experience
+water,3,1,8.83773044716594,General Experience
+look,3,2,7.6213351228414465,General Experience

@@ -1,0 +1,2 @@
+evaluated_users,hit_rate_at_5,hit_rate_at_10,eligible_users_sampled,filtered_interactions,products_with_recommendations,recommendation_rows
+5000,0.0712,0.0864,50000,96018,2102,4862

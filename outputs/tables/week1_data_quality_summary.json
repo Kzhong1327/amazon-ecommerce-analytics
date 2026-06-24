@@ -1,0 +1,84 @@
+{
+  "amazon_csv": {
+    "rows": 1465,
+    "columns": 27,
+    "unique_products": 1351,
+    "duplicate_product_id_rows": 114,
+    "missing_values": {
+      "product_id": 0,
+      "product_name": 0,
+      "category": 0,
+      "discounted_price": 0,
+      "actual_price": 0,
+      "discount_percentage": 0,
+      "rating": 0,
+      "rating_count": 2,
+      "about_product": 0,
+      "user_id": 0,
+      "user_name": 0,
+      "review_id": 0,
+      "review_title": 0,
+      "review_content": 0,
+      "img_link": 0,
+      "product_link": 0,
+      "discounted_price_num": 0,
+      "actual_price_num": 0,
+      "discount_percentage_num": 0,
+      "rating_num": 1,
+      "rating_count_num": 2,
+      "main_category": 0,
+      "sub_category": 0,
+      "review_length_chars": 0,
+      "review_title_count_est": 0,
+      "review_content_count_est": 0,
+      "estimated_revenue_proxy": 2
+    },
+    "main_category_counts": {
+      "Electronics": 526,
+      "Computers&Accessories": 453,
+      "Home&Kitchen": 448,
+      "OfficeProducts": 31,
+      "MusicalInstruments": 2,
+      "HomeImprovement": 2,
+      "Toys&Games": 1,
+      "Car&Motorbike": 1,
+      "Health&PersonalCare": 1
+    },
+    "rating_min": 2.0,
+    "rating_max": 5.0,
+    "avg_rating": 4.096584699453552,
+    "rating_count_missing": 2
+  },
+  "ratings_Electronics_csv": {
+    "rows": 7824482,
+    "columns": 7,
+    "unique_users": 4201696,
+    "unique_products": 476002,
+    "duplicate_user_product_pairs": 0,
+    "missing_values": {
+      "user_id": 0,
+      "product_id": 0,
+      "rating": 0,
+      "timestamp": 0
+    },
+    "rating_distribution": {
+      "1.0": 901765,
+      "2.0": 456322,
+      "3.0": 633073,
+      "4.0": 1485781,
+      "5.0": 4347541
+    },
+    "date_min": "1998-12-04",
+    "date_max": "2014-07-23",
+    "amazon_product_overlap_count": 6,
+    "amazon_product_overlap_sample": [
+      "B002SZEOLG",
+      "B003L62T7W",
+      "B005LJQMCK",
+      "B005LJQMZC",
+      "B006LW0WDQ",
+      "B00A0VCJPI"
+    ],
+    "matrix_density": 3.912210290338533e-06
+  }
+}

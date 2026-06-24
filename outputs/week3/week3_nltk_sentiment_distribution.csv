@@ -1,0 +1,7 @@
+method,sentiment_label,product_count,product_share
+baseline_dictionary,positive,1380,0.9419795221843004
+baseline_dictionary,neutral,59,0.040273037542662114
+baseline_dictionary,negative,26,0.017747440273037544
+nltk_vader,positive,1380,0.9419795221843004
+nltk_vader,neutral,11,0.007508532423208191
+nltk_vader,negative,74,0.050511945392491465

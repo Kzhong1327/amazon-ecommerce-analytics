@@ -1,0 +1,26 @@
+view_name,dimension,metric_name,metric_value,share_value,avg_rating,avg_sentiment_score,negative_share,display_order,business_note
+Sentiment Distribution,positive,product_count,1380.0,0.9419795221843004,4.115373459028282,0.9091512866609696,,1,整体情感结构用于判断口碑基线，并结合低评分产品做重点排查。
+Sentiment Distribution,neutral,product_count,59.0,0.040273037542662114,3.815254237288135,0.014880411776109638,,2,整体情感结构用于判断口碑基线，并结合低评分产品做重点排查。
+Sentiment Distribution,negative,product_count,26.0,0.017747440273037544,3.738461538461538,-0.3074545892712423,,3,整体情感结构用于判断口碑基线，并结合低评分产品做重点排查。
+Topic Performance,Product Quality & Durability,product_count,421.0,0.28737201365187715,4.062232779097387,0.8861567314384771,0.0332541567695962,1,覆盖产品最多，适合作为质量、耐用性和做工改进的主线。
+Topic Performance,Charging & Power,product_count,404.0,0.2757679180887372,4.1180693069306935,0.8812895231533363,0.0099009900990099,2,产品量和反馈量较高，重点关注充电、电池、线缆和接口体验。
+Topic Performance,Compatibility & Usability,product_count,322.0,0.2197952218430034,4.123602484472049,0.8104455274214271,0.0093167701863354,3,重点优化设备适配说明、连接步骤和易用性。
+Topic Performance,Price & Value,product_count,271.0,0.1849829351535836,4.091851851851851,0.8768459387591857,0.003690036900369,4,关注价格表达、产品价值感和折扣策略。
+Topic Performance,Delivery & Packaging,product_count,34.0,0.023208191126279865,4.064705882352941,0.403558364353821,0.1176470588235294,5,负面占比最高，应优先检查配送、包装破损和退换货体验。
+Topic Performance,General Experience,product_count,13.0,0.008873720136518772,4.053846153846154,0.4684812042200547,0.0,6,样本较少，作为整体体验的辅助观察项。
+Recommendation Evaluation,Hit Rate@5,hit_rate,0.0712,0.0712,,,,1,用于衡量真实留出商品是否出现在 Top-N 推荐列表中。
+Recommendation Evaluation,Hit Rate@10,hit_rate,0.0864,0.0864,,,,2,用于衡量真实留出商品是否出现在 Top-N 推荐列表中。
+Opportunity by Topic,Product Quality & Durability,opportunity_count,33.0,0.33,3.8151515151515154,0.5809495093351575,,1,用于确定产品优化和运营排查的优先范围。
+Opportunity by Topic,Charging & Power,opportunity_count,24.0,0.24,3.7999999999999994,0.7385232600657234,,2,用于确定产品优化和运营排查的优先范围。
+Opportunity by Topic,Price & Value,opportunity_count,21.0,0.21,3.8000000000000007,1.0086581337313714,,3,用于确定产品优化和运营排查的优先范围。
+Opportunity by Topic,Compatibility & Usability,opportunity_count,19.0,0.19,3.8157894736842097,0.8318208513469925,,4,用于确定产品优化和运营排查的优先范围。
+Opportunity by Topic,Delivery & Packaging,opportunity_count,2.0,0.02,3.8,-0.053415982718621156,,5,用于确定产品优化和运营排查的优先范围。
+Opportunity by Topic,General Experience,opportunity_count,1.0,0.01,3.5,0.914991421995628,,6,用于确定产品优化和运营排查的优先范围。
+Opportunity by Category,Electronics,opportunity_count,51.0,0.51,3.8372549019607844,0.847190911232405,,1,用于确定产品优化和运营排查的优先范围。
+Opportunity by Category,Home&Kitchen,opportunity_count,25.0,0.25,3.8440000000000003,0.6751906512459249,,2,用于确定产品优化和运营排查的优先范围。
+Opportunity by Category,Computers&Accessories,opportunity_count,23.0,0.23,3.6913043478260867,0.6406694835847092,,3,用于确定产品优化和运营排查的优先范围。
+Opportunity by Category,MusicalInstruments,opportunity_count,1.0,0.01,3.8,-0.131432386301497,,4,用于确定产品优化和运营排查的优先范围。
+KPI,Products Analyzed,kpi_value,1465.0,,,,,1,第三周完成情感与主题分析的产品总数。
+KPI,Improvement Opportunities,kpi_value,100.0,,,,,2,低评分或负面情感产品机会数量。
+KPI,Products with Recommendations,kpi_value,2102.0,,,,,3,已生成相似商品推荐的源商品数量。
+KPI,Recommendation Rows,kpi_value,4862.0,,,,,4,推荐结果表中的商品配对数量。

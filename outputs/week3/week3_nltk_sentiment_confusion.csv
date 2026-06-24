@@ -1,0 +1,9 @@
+baseline_sentiment_label,vader_sentiment_label,product_count,product_share
+negative,negative,13,0.008873720136518772
+negative,neutral,2,0.0013651877133105802
+negative,positive,11,0.007508532423208191
+neutral,negative,14,0.00955631399317406
+neutral,positive,45,0.030716723549488054
+positive,negative,47,0.032081911262798635
+positive,neutral,9,0.0061433447098976105
+positive,positive,1324,0.903754266211604
